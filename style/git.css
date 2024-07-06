@@ -2,6 +2,8 @@ div{
     background-color: aqua;
     width: 500px;
     padding: 30px;
-    height: 100px;
     margin-bottom: 10px;
+}
+img{
+    width: 100%;
 }
